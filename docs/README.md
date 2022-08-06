@@ -1,6 +1,8 @@
 <body style="background-color:black;">
 
 Member : <a href="https://github.com/quantumcoder-18178">Scott Lang</a>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=quantumcoder-18178&amp;theme=blue-green" alt="Scott Lang&#39;s github stats"></a></p>
+
 <table>
     <thead>
     <tr>
