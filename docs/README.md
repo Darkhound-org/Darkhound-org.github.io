@@ -33,7 +33,7 @@ Member : <a href="https://github.com/quantumcoder-18178">Scott Lang</a>
     </tr>
     <tr>
     <td>6] </td>
-    <td><button type="button"><a href="Darkhound-cli-help.md">Darkhound-cli-help</a></button></td>
+    <td><button type="button"><a href="Darkhound-cli-help.html">Darkhound-cli-help</a></button></td>
     </tr>
     </tbody>
     </table>
