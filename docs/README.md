@@ -15,23 +15,23 @@ Member : <a href="https://github.com/quantumcoder-18178">Scott Lang</a>
     </tr>
     <tr>
     <td>2] </td>
-    <td><button type="button"><a href="Darkhound-org.github.io">Darkhound-org.github.io</a></button></td>
+    <td><button type="button"><a href="Darkhound-org.github.io.md">Darkhound-org.github.io</a></button></td>
     </tr>
     <tr>
     <td>3] </td>
-    <td><button type="button"><a href="Augohl">Augohl</a></button></td>
+    <td><button type="button"><a href="Augohl.md">Augohl</a></button></td>
     </tr>
     <tr>
     <td>4] </td>
-    <td><button type="button"><a href="gib">.github</a></button></td>
+    <td><button type="button"><a href="gib.md">.github</a></button></td>
     </tr>
     <tr>
     <td>5] </td>
-    <td><button type="button"><a href="Glixxko">Glixxko</a></button></td>
+    <td><button type="button"><a href="Glixxko.md">Glixxko</a></button></td>
     </tr>
     <tr>
     <td>6] </td>
-    <td><button type="button"><a href="Darkhound-cli-help">Darkhound-cli-help</a></button></td>
+    <td><button type="button"><a href="Darkhound-cli-help.md">Darkhound-cli-help</a></button></td>
     </tr>
     </tbody>
     </table>
