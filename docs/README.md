@@ -25,11 +25,11 @@ Member : <a href="https://github.com/quantumcoder-18178">Scott Lang</a>
     </tr>
     <tr>
     <td>4] </td>
-    <td><button type="button"><a href="gib.md">.github</a></button></td>
+    <td><button type="button"><a href="gib.html">.github</a></button></td>
     </tr>
     <tr>
     <td>5] </td>
-    <td><button type="button"><a href="Glixxko.md">Glixxko</a></button></td>
+    <td><button type="button"><a href="Glixxko.html">Glixxko</a></button></td>
     </tr>
     <tr>
     <td>6] </td>
