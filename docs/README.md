@@ -13,7 +13,7 @@ Member : <a href="https://github.com/quantumcoder-18178">Scott Lang</a>
     <tbody>
     <tr>
     <td>1] </td>
-    <td><button type="button"><a href="IMDBot.md">IMDBot</a></button></td>
+    <td><button type="button"><a href="IMDBot.html">IMDBot</a></button></td>
     </tr>
     <tr>
     <td>2] </td>
