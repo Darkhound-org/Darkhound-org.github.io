@@ -1,7 +1,7 @@
 
 ### DARKHOUND-ORG
 
-Download Darkhound-cli-help app. 
+Download Darkhound-cli-help app from [here](https://github.com/Darkhound-org/Darkhound-cli-help/releases).
 
 <table>
     <thead>
